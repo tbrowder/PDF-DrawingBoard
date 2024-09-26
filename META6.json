@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides graphical tools for drawing on PDF pages of any size",
+  "license": "Artistic-2.0",
+  "name": "PDF::DrawingBoard",
+  "perl": "6.d",
+  "provides": {
+    "PDF::DrawingBoard": "lib/PDF/DrawingBoard.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

@@ -1,0 +1,6 @@
+use Test;
+use PDF::DrawingBoard;
+
+pass "replace me";
+
+done-testing;
